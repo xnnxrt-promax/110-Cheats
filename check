@@ -1,4 +1,0 @@
-getgenv().key = {
-    "dev",
-    "demo"
-}
