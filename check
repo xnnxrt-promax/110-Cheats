@@ -1,0 +1,4 @@
+getgenv().key = {
+    "dev",
+    "demo"
+}
