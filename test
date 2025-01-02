@@ -1,7 +1,0 @@
-if getgenv().key == 'dev' then
-    hwid = "87B8A6B0-5A6C-44A6-87F5-1B1942381B9D"
-    keycheak = true
-elseif getgenv().key == 'demo' then
-    hwid = game:GetService("RbxAnalyticsService"):GetClientId()
-    keycheak = true
-end
